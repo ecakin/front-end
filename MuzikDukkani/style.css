@@ -1,0 +1,60 @@
+h1 { 
+    color : red;
+    font-size : 64px;
+    font-family: "Roboto", sans serif;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+}
+h2 { 
+    color : blue;
+    font-size : 32px;
+    font-family: "Roboto", sans serif;
+    font-weight: bold;
+    text-align: left;
+    text-transform: uppercase;
+}
+.ortala {
+    text-align : center;
+    font-weight :c800;
+}
+.konum {
+    font-size : 32px;
+}
+p {
+    color : white
+}
+
+.renk {
+    background-color : black;
+}
+
+.gorsel-size-c{
+    display: block;
+    width : 672px;
+    height : 448px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.gorsel-size-r{
+    display: block;
+    width : 672px;
+    height : 448px;;
+    margin-top:10px;
+    margin-left: 800px;
+    
+}
+.gorsel-size-l{
+    display: block;
+    width : 672px;
+    height : 448px; 
+}
+.di { 
+    color : white;
+    text-align: right;
+}
+.gorsel-size-d {
+    display: block;
+    width : 336px;
+    height : 224px;
+}
