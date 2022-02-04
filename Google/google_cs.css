@@ -1,0 +1,104 @@
+.body {
+    margin: 0;
+    padding : 0;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+.box {
+    background-color: white;
+    width :1364px;
+    margin-left: 86px;
+    margin-right : 86px;
+    margin-top : 20px;
+    margin-bottom : 10px;
+}
+.box2 {
+    padding-top : 10px;
+    padding-bottom : 2px;
+    background-color: #EEEEEE;
+    width :1364px;
+    height: 120px;
+    margin-left: 86px;
+    margin-right : 86px;
+}
+p {
+    text-align: center;
+    margin-top : 0px;
+    padding : auto;
+}
+.center1 {
+    display: block;
+    padding : auto;
+    margin : auto;
+  }
+.input-box {
+    width : 304px;
+    height :22px;
+    margin-left: 530px;
+    margin-right: 530px;
+    margin-top : 3px; 
+}
+.button-center1 {
+    display: block;
+    margin-left: 565px;
+    margin-right : 8px;
+    margin-top : 8px;
+    float: left;
+}
+.button-center2 {
+    display: block;
+    margin-left : 8px;
+    margin-right: 540px;
+    margin-top : 8px;
+    float: left;
+}
+.box3 {
+    width :542px;
+    height : 130px;
+    float : left;
+    background-color: #7DE5DA;
+    margin-left: 86px;
+    padding :auto;
+}
+.box4 {
+    width :274px;
+    height : 130px;
+    float : left;
+    background-color: #70CBC2;
+    margin-left: 3px;
+    margin-right: 3px;
+    padding :auto;
+    
+}
+.box5 {
+    width :542px;
+    height : 130px;
+    float : left;
+    background-color: #62B3AA;
+    margin-right: 70px;
+    padding :auto;
+}
+.e-mailbox {
+    margin-top :0;
+    margin-left: 200px;
+    margin-right : 200px;
+    margin-bottom : 2px;
+}
+.button-center-sub {
+    display: block;
+    margin-left: 200px;
+    margin-right : 40px;
+    margin-top : 8px;
+    float: left;
+}
+
+.pin  {
+    display: block;
+    margin-right : 40px;
+    margin-top : 10px;
+    float: left;
+}
